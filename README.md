@@ -2,13 +2,15 @@
 
 👀 I’m interested on making Friday Night Funkin' mods with PsychEngine!
 
-🌱 I’m currently learning at school (Corona so I study online), cuz when I started this profile, I am almost 11 years old!
+🌱 I’m currently learning at school (because of Corona virus so I study online), cuz when I started this profile, I am almost 11 years old!
 
 💖 I really like Friday Night Funkin' Psych engine mod!
 
 💻 I am a young coder!
 
-😕 My gender? Well... that is a secret! I just like Nightmare Sans, that not mean I am a real boy!\
+🚀 My dream is become a coder!
+
+😕 My gender? Well... that is a secret! I just like Nightmare Sans, that not mean I am a real boy!
 
 😱 I really scare about ghost.
 
