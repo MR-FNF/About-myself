@@ -2,11 +2,16 @@
 
 👀 I’m interested on making Friday Night Funkin' mods with PsychEngine!
 
-🌱 I’m currently learning at school (because of Corona virus so I study online), cuz when I started this profile, I am almost 11 years old!
+🌱 I’m currently learning at school (online cuz Corona), cuz when I started this profile, I am almost 11 years old!
 
 💖 I really like Friday Night Funkin' Psych engine mod!
 
 💻 I am a young coder!
+
+📃 I am a lua coder on Psych Engine!
+
+🍉 I am working on a mod call 'Strange Night Funkin' mod'.
+🍉 Strange Fruits Youtube Channel: https://www.youtube.com/Strange%20Fruits
 
 🚀 My dream is become a coder!
 
