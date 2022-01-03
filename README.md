@@ -1,4 +1,4 @@
-👋 Hi, I’m @MR-FNF, or you can call me, Nightmare!
+👋 Hi, I’m @Aubrey
 
 👀 I’m interested on making Friday Night Funkin' mods with PsychEngine!
 
@@ -8,7 +8,7 @@
 
 💻 I am a young coder!
 
-📃 I am a lua coder on Psych Engine!
+📃 I am a lua coder on Psych Engine and I am not good at it!
 
 🍉 I am working on a mod call 'Strange Night Funkin' mod'.
 
@@ -16,13 +16,13 @@
 
 🚀 My dream is become a coder!
 
-😕 My gender? Well... that is a secret! I just like Nightmare Sans, that not mean I am a real boy!
+😕 My gender? Well... that is a secret!
 
 😱 I really scare about ghost.
 
 💑 Please don't say something bad to me!
 
 <!---
-MR-FNF/Nightmare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MR-FNF/MR-FNF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
