@@ -16,7 +16,7 @@
 
 🚀 My dream is become a coder!
 
-😕 My gender? Well... that is a secret!
+😕 My gender? Well... that is a secret! Why my name contain 'MR'? Well... because the boy play Friday Night Funkin' more than the girl, but I play it a lot!
 
 😱 I really scare about ghost.
 
