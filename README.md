@@ -4,6 +4,8 @@
 
 🌱 I’m currently learning at school (online cuz Corona), cuz when I started this profile, I am almost 11 years old!
 
+👦 I'm actually 11 years old now!
+
 💖 I really like Friday Night Funkin' Psych engine mod!
 
 💻 I am a young coder!
