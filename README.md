@@ -1,4 +1,4 @@
-👋 Hi, I’m @Aubrey
+👋 Hi, I’m @MR-FNF!
 
 👀 I’m interested on making Friday Night Funkin' mods with PsychEngine!
 
